@@ -1,0 +1,29 @@
+.cart-page {
+    padding: 20px;
+  }
+  
+  .cart-items-list {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .cart-item {
+    margin-bottom: 20px;
+    border: 1px solid #ddd;
+    padding: 10px;
+  }
+  
+  .cart-item-image {
+    height: 100px;
+    object-fit: contain;
+    border: 1px solid black;
+    margin-bottom: 10px;
+  }
+  
+  .btn-danger {
+    color: #fff;
+    background-color: #7be424;
+    border-radius: 15px;
+    width: 300px;
+  }
+  
